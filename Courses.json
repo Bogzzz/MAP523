@@ -1,4 +1,22 @@
 {
-"student" : "Aleksandr Stepanenko"
+"student" : "Aleksandr Stepanenko",
+  "version" : "1.0.0",
+  "tamestamp" : "2020-01-27T16:11:15+0000",
+  "count" : 10 ,
+  "data": [
+  {"id" : 1, "courseCode" : "MAP523", "courseName":" Mobile App Development - iOS"},
+  {"id" : 2, "courseCode" : "LAN114", "courseName":" Spanish for Beginners"},
+  {"id" : 3, "courseCode" : "DSA555", "courseName":" Data Structures"},
+  {"id" : 4, "courseCode" : "GAM536", "courseName":" Game Content Creation"},
+  {"id" : 5, "courseCode" : "PRJ566", "courseName":" Project Planning & Management"},
+  {"id" : 6, "courseCode" : "BCI433", "courseName":" IBM Business Computing"},
+  {"id" : 7, "courseCode" : "EAC594", "courseName":" Comm Digital Workplace"},
+  {"id" : 8, "courseCode" : "JAC444", "courseName":" Intro to Java C++ "},
+  {"id" : 9, "courseCode" : "SYS466", "courseName":" Analysis And Design"},
+  {"id" : 10, "courseCode" : "WEB422", "courseName":" Web Prog. for Apps & Services"},
+
+
+  
+  ]
 
 }
