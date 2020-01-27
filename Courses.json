@@ -1,7 +1,7 @@
 {
 "student" : "Aleksandr Stepanenko",
   "version" : "1.0.0",
-  "tamestamp" : "2020-01-27T16:11:15+0000",
+  "timestamp" : "2020-01-27T16:11:15+0000",
   "count" : 10 ,
   "data": [
   {"id" : 1, "courseCode" : "MAP523", "courseName":" Mobile App Development - iOS"},
